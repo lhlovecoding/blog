@@ -1,6 +1,7 @@
 import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
+  base: '/blog/',
   lang: 'zh-CN',
   title: 'ikun study blog',
   description: 'ikun study blog',
