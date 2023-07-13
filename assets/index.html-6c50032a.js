@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"课程大纲","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1689253941000,"contributors":[{"name":"ikun","email":"459077797@qq.com","commits":2},{"name":"李大钊","email":"459077797@qq.com","commits":2}]},"filePathRelative":"index.md"}');export{e as data};
